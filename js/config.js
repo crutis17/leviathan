@@ -24,7 +24,7 @@ Config.serverImage = "rsz_leviathan.jpg";
 // only use .ogg files!
 // put songs on the songs folder, then add them here
 Config.playlist = [
-	{url: "musicloading1.ogg", name: "Relaxing, Totally not copyrighted music"}
+	{url: "musicloading1.ogg", name: "I bet you were expecting music..."}
 ];
 
 // Songs volume
@@ -33,7 +33,7 @@ Config.playlist = [
 // 1 = 100%
 // (you can use values higher than 1 for 100%+ volume)
 // default: 0.5
-Config.songVolume = 0.19;
+Config.songVolume = 0;
 
 // Random song order
 // default: true
