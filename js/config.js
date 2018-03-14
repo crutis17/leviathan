@@ -18,7 +18,7 @@ Config.textBackground = true;
 // set this to its filename (eg "logo.png")
 // (leave it false to not use it)
 // default: false
-Config.serverImage = "leviathanlogo.png";
+Config.serverImage = "rsz_leviathanlogo.jpg";
 
 // Song playlist
 // only use .ogg files!
