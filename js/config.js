@@ -18,7 +18,7 @@ Config.textBackground = true;
 // set this to its filename (eg "logo.png")
 // (leave it false to not use it)
 // default: false
-Config.serverImage = "rsz_leviathan.jpg";
+Config.serverImage = "leviathanlogo.png";
 
 // Song playlist
 // only use .ogg files!
@@ -88,7 +88,7 @@ Config.fontColor = "#FFFFFF";
 // Use hexadecimal color values
 // Primary color
 // default: "#00FF9B"
-Config.primaryColor = "#33CCCC";
+Config.primaryColor = "#8A2BE2";
 // Secondary color
 // default: "#21001E"
 Config.secondaryColor = "#21001E";
